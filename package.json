@@ -1,0 +1,10 @@
+{
+  "name": "brainmaintainer",
+  "bin": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "pkg": {
+    "outputPath": "dist"
+  }
+}
