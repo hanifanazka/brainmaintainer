@@ -6,5 +6,10 @@
   },
   "pkg": {
     "outputPath": "dist"
-  }
+  },
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/hanifanazka/brainmaintainer.git",
+  "author": "Hanifan Azka <hanifan.azka@gmail.com>",
+  "license": "MIT"
 }
