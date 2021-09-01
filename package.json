@@ -1,6 +1,8 @@
 {
   "name": "brainmaintainer",
-  "bin": "index.js",
+  "bin": {
+    "brainmaintainer": "index.js"
+  },
   "dependencies": {
     "chalk": "^4.1.2"
   },
